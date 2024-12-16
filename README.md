@@ -29,16 +29,16 @@ Endpoints:
 Example: { "player": "John", "score": 1200, "seconds": 300, "level": 2 }.
  
 ## Technical Highlights
-Angular:
+# Angular:
 - Used directives like *ngFor for dynamic rendering.
 - Created reusable components for modular development.
-API:
+# API:
 - Implemented robust error handling for network calls.
 - Ensured data validation and security during API communication.
-Drag-and-Drop:
+# Drag-and-Drop:
 - Implemented drag-and-drop functionality for interactive gameplay.
 - Verified valid moves and updated the board dynamically.
-Scoring Logic:
+# Scoring Logic:
 - Calculated scores based on matched elements.
 - Implemented cascading logic to handle multiple matches. 
 

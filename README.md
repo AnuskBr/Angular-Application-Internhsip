@@ -19,7 +19,7 @@ Scoreboard:
 - Real-time updates for newly added scores.
 - Integrated with an external API to fetch and post scores.
 - API Integration
-- 
+
 Testing Tools: Utilized Postman for API testing with POST and GET methods.
 
 Endpoints:
